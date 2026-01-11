@@ -1,3 +1,2 @@
 # myoraclerepos
-This Repository will contain Oracle Technology articles like Database, Cloud etc.
-DO NOT use in Production Directly without testing in lower grade enviroment.
+DO NOT use in Production environment Directly without testing in lower grade or test enviroment.
